@@ -1,0 +1,90 @@
+"1"
+"        --  Dictionary  --"
+"HP = Hit Points (Your health)"
+"Gold = Currency used in shops"
+"Level = Your growth tier (XP)"
+"Weapon/Armor = gear + bonus"
+"More Dictionary.",2
+"Read Hints.",5
+"Exit Help.",0
+"2"
+"Total Attack = weapon + level"
+"Total Defense = armor + level"
+"Large/Small Heal = restore HP"
+"Antidote = cures Poison/Rot"
+"Agility Potion = flee a fight"
+"More Dictionary.",3
+"Read Hints.",5
+"Exit Help.",0
+"3"
+"Special Enemy Trait to watch:"
+"Poison/Rot - some foes poison"
+"you on hit, dealing damage"
+"each turn until cured by an"
+"Antidote or a night's rest."
+"More Dictionary.",4
+"Read Hints.",5
+"Exit Help.",0
+"4"
+"Defeat 5 of a foe to unlock"
+"its stats in your Bestiary."
+" "
+"Gaining levels, buying gear,"
+"and stocking herbs are your"
+"Read Hints.",5
+"Go Back to Start.",1
+"Exit Help.",0
+"5"
+"        --  Hints  --"
+"Fountains: drink to heal 5 HP."
+"Free, and works any time."
+"Barrels: search them! Some"
+"hide gold, potions, or junk."
+"More Hints.",6
+"Read Dictionary.",1
+"Exit Help.",0
+"6"
+"Fishing: face water and cast."
+"You may catch a fish, a rare"
+"fish, or a bag of coins. Sell"
+"your catch at any shop for"
+"easy gold."
+"More Hints.",7
+"Read Dictionary.",1
+"Exit Help.",0
+"7"
+"Leveling: defeat foes for XP."
+"Watch your Xp bar fill up -"
+"each Level gained adds +1 to"
+"both Attack and Defense."
+"Stronger foes give more XP."
+"More Hints.",8
+"Read Dictionary.",1
+"Exit Help.",0
+"8"
+"Gear: shops sell weapons,"
+"armor, and potions. Inns heal"
+"you fully for a little gold."
+"Seek relics too, like the"
+"Sun-Winged Aegis, for power."
+"More Hints.",9
+"Read Dictionary.",1
+"Exit Help.",0
+"9"
+"Always stock Antidotes before"
+"infested areas like Balthix"
+"Cemetary or Turnstead Caves."
+"Save Game ONLY works inside"
+"buildings."
+"More Hints.",10
+"Read Dictionary.",1
+"Exit Help.",0
+"10"
+"Talk to every villager, and"
+"explore every corner. Watch"
+"your HP in battle, and flee"
+"if a fight looks grim."
+"Save often. Good luck!"
+"Read Hints Again.",5
+"Read Dictionary.",1
+"Exit Help.",0

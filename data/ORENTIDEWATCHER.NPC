@@ -1,0 +1,82 @@
+"1"
+"Hello.What do you want?"
+" "
+" "
+" "
+" "
+"I seek Etheros.",2
+"I need your guidance.",2
+"",0
+"2"
+"For many years I have watched"
+"these shores and the ancient tides."
+"I once stood against Etheros"
+"when the world was young."
+" "
+"What happened?",3
+"You fought Etheros?",3
+"",0
+"3"
+"I struck him down with sacred"
+"light,but darkness cannot truly"
+"die. His spirit slipped beyond"
+"mortal reach and waited."
+" "
+"So he lives?",4
+"Tell me more.",4
+"",0
+"4"
+"Now the Lich-Lord stirs again."
+"His chains weaken with every"
+"passing season."
+"You may yet finish what I could"
+"not."
+"What must I do?",5
+"How can I stop him?",5
+"",0
+"5"
+"Walk with courage,but never"
+"with pride. Gather allies,"
+"seek the ancient relics,"
+"and trust the light over fear."
+" "
+"Can you help me?",6
+"I will try.",6
+"",0
+"6"
+"I have guarded one treasure"
+"since the day Etheros fell."
+"It belongs to the one chosen"
+"to face him again."
+" "
+"What treasure?",7
+"Show me.",7
+"",0
+"7"
+"The Sun-Winged Aegis."
+"It has turned aside darkness"
+"for generations."
+"May it shield your heart as"
+"well as your body."
+" "
+"I'll honor it.",8
+"Thank you,Oren.",8
+"",0
+"8"
+"Take the Aegis and remember:"
+"Victory belongs not to the"
+"strongest warrior,but to the"
+"one who never abandons hope."
+" "
+"Farewell.",9
+"I won't fail.",9
+"",0
+"9"
+"The tides will guide you."
+"When the final battle comes,"
+"remember that even the darkest"
+"night must yield to dawn."
+"Go with the light."
+"Farewell.",0
+"Until we meet again.",0
+"",0

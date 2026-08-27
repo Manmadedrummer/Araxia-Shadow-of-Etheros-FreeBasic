@@ -1,0 +1,45 @@
+"1"
+"Hello."
+"Are you here to buy something?"
+" "
+" "
+" "
+"Yes.",2
+"Bye.",0
+"",0
+"2"
+"That's interesting. Are you going"
+"out for a journey or just to hunt?"
+" "
+" "
+" "
+"A journey.",3
+"To hunt.",4
+"I must go.",0
+"3"
+"Remember to buy Jars of Potion for"
+"major healing, Vials of Potion for"
+"smaller wounds, and Antidotes if"
+"you get poisoned by foul creatures."
+" "
+"Thanks.",0
+"Bye-bye.",0
+"",0
+"4"
+"Ah, hunting! Make sure you carry an"
+"Agility Potion or two. If you bite"
+"off more than you can chew, it will"
+"let you escape with your life."
+" "
+"What about the prey?",5
+"Thanks, bye.",0
+"",0
+"5"
+"Bring any trophies you harvest to"
+"the veteran hunter near the Inn."
+"He pays good gold for them, which"
+"you can use to buy better steel!"
+" "
+"Great advice. Bye.",0
+"I'll remember that. See ya.",0
+"",0
