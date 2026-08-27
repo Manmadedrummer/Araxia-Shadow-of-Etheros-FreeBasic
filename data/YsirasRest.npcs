@@ -1,0 +1,5 @@
+# ARAXIA NPC dialogue links for YsirasRest.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 13,8,npc_1,YRNPC01
+13,8,yrnpc01.npc

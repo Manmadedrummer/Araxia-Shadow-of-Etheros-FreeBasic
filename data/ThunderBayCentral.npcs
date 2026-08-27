@@ -1,0 +1,13 @@
+# ARAXIA NPC dialogue links for ThunderBayCentral.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 19,2,npc_5,TBCENTRALNPC05
+19,2,tbcentralnpc05.npc
+#meta 27,15,npc_2,TBCENTRALNPC01
+27,15,tbcentralnpc01.npc
+#meta 30,8,npc_3,TBCENTRALNPC03
+30,8,tbcentralnpc03.npc
+#meta 32,28,npc_1,TBCENTRALNPC02
+32,28,tbcentralnpc02.npc
+#meta 35,5,npc_4,TBCENTRALNPC04
+35,5,tbcentralnpc04.npc

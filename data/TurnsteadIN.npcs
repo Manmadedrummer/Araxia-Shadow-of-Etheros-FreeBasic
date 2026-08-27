@@ -1,0 +1,13 @@
+# ARAXIA NPC dialogue links for TurnsteadIN.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 20,5,npc_5,TINNPC05
+20,5,tinnpc05.npc
+#meta 21,14,npc_1,TINNPC01
+21,14,tinnpc01.npc
+#meta 24,16,npc_2,TINNPC02
+24,16,tinnpc02.npc
+#meta 8,21,npc_3,TINNPC03
+8,21,tinnpc03.npc
+#meta 9,14,npc_4,TINNPC04
+9,14,tinnpc04.npc

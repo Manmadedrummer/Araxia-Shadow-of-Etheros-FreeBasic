@@ -1,0 +1,27 @@
+# ARAXIA NPC dialogue links for Turnstead.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 1,10,npc_2,TURNSTEADRDSIGN02
+1,10,turnsteadrdsign02.npc
+#meta 12,22,npc_10,TURNSTEADNPC03
+12,22,turnsteadnpc03.npc
+#meta 13,10,npc_7,TURNSTEADPOTIONSIGN01
+13,10,turnsteadpotionsign01.npc
+#meta 16,24,npc_1,TURNSTEAD01
+16,24,turnsteadsign01.npc
+#meta 18,22,npc_11,TURNSTEADNPC04
+18,22,turnsteadnpc04.npc
+#meta 18,10,npc_12,TURNSTEADNPC05
+18,10,turnsteadnpc05.npc
+#meta 25,10,npc_3,TURNSTEADRDSIGN02
+25,10,turnsteadrdsign02.npc
+#meta 5,24,npc_4,GOATANDGRICKSIGN01
+5,24,goatandgricksign01.npc
+#meta 5,10,npc_5,TURNSTEADWEAPONSHOPSIGN01
+5,10,turnsteadweaponshopsign01.npc
+#meta 7,20,npc_9,TURNSTEADNPC02
+7,20,turnsteadnpc02.npc
+#meta 9,10,npc_6,TURNSTEADARMORSHOP01
+9,10,turnsteadarmorshop01.npc
+#meta 10,10,npc_8,TURNSTEADNPC01
+10,10,turnsteadnpc01.npc

@@ -1,0 +1,11 @@
+# ARAXIA NPC dialogue links for ThunderBayNorthWestIN.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 12,20,npc_4,TBNWINNPC01
+12,20,tbnwinnpc01.npc
+#meta 20,4,npc_2,TBNWINNPC04
+20,4,tbnwinnpc04.npc
+#meta 8,3,npc_1,TBNWINNPC03
+8,3,tbnwinnpc03.npc
+#meta 10,17,npc_3,TBNWINNPC02
+10,17,tbnwinnpc02.npc

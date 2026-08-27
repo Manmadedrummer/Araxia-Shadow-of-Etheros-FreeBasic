@@ -1,0 +1,11 @@
+# ARAXIA NPC dialogue links for ThunderBaySouthDocksIN.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 17,8,npc_1,TBSDINNPC04
+17,8,tbsdinnpc04.npc
+#meta 26,22,npc_2,TBSDINNPC03
+26,22,tbsdinnpc03.npc
+#meta 42,18,npc_3,TBSDINNPC02
+42,18,tbsdnpc02.npc
+#meta 46,17,npc_4,TBSDINNPC01
+46,17,tbsdinnpc01.npc

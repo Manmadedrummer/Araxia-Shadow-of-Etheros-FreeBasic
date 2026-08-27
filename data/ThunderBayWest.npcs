@@ -1,0 +1,21 @@
+# ARAXIA NPC dialogue links for ThunderBayWest.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 14,5,npc_3,TBWestNPC02
+14,5,tbwnpc02.npc
+#meta 22,17,npc_1,TBWFuzzyNewtInn
+22,17,tbwfuzzynewtinnsign.npc
+#meta 26,25,npc_4,TBWestNPC03
+26,25,tbwnpc03.npc
+#meta 29,6,npc_5,TBWestNPC04
+29,6,tbwnpc04.npc
+#meta 32,12,npc_6,TBWestNPC05
+32,12,tbwnpc05.npc
+#meta 5,15,npc_9,TBWestLeavingTownSign
+5,15,tbwesteversmokesign.npc
+#meta 46,8,npc_7,TBWestNPC06
+46,8,tbwnpc06.npc
+#meta 49,20,npc_8,TBWestNPC07
+49,20,tbwnpc07.npc
+#meta 8,15,npc_2,TBWestNPC01
+8,15,tbwnpc01.npc

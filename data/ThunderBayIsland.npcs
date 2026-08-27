@@ -1,0 +1,7 @@
+# ARAXIA NPC dialogue links for ThunderBayIsland.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 33,3,npc_1,TBIslandSign
+33,3,tbislandsign.npc
+#meta 36,22,npc_2,TBITIDEWATCHERHOUSE
+36,22,tbitidewatcherhousesing.npc

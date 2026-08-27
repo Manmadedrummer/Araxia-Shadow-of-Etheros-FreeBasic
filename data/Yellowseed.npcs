@@ -1,0 +1,31 @@
+# ARAXIA NPC dialogue links for Yellowseed.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 11,5,npc_4,YSARMORSHOP
+11,5,ysarmorshop.npc
+#meta 16,5,npc_5,YSPOTIONSHOP
+16,5,yspotionshop.npc
+#meta 21,22,npc_9,YSNPC01
+21,22,ysnpc01.npc
+#meta 22,3,npc_7,YSTOWNSIGN02
+22,3,ystownsign02.npc
+#meta 22,28,npc_6,YSTOWNSIGN01
+22,28,ystownsign01.npc
+#meta 29,16,npc_13,YSNPC05
+29,16,ysnpc05.npc
+#meta 30,5,npc_14,YSNPC06
+30,5,ysnpc06.npc
+#meta 32,25,npc_12,YSNPC04
+32,25,ysnpc04.npc
+#meta 33,15,npc_2,YSMILLTOWER
+33,15,ysmilltower.npc
+#meta 34,21,npc_8,YSTOWNSIGN03
+34,21,ystownsign03.npc
+#meta 6,27,npc_10,YSNPC02
+6,27,ysnpc02.npc
+#meta 6,5,npc_3,YSWEAPONSHOP
+6,5,ysweaponshop.npc
+#meta 8,14,npc_11,YSNPC03
+8,14,ysnpc03.npc
+#meta 10,23,npc_1,YSSODDINGFOP
+10,23,yssoddingfop.npc

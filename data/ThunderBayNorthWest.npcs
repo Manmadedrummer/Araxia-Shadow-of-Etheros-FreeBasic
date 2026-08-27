@@ -1,0 +1,17 @@
+# ARAXIA NPC dialogue links for ThunderBayNorthWest.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 11,11,npc_7,TBNWNPC04
+11,11,tbnwnpc04.npc
+#meta 14,8,npc_6,TBNWNPC05
+14,8,tbnwnpc05.npc
+#meta 18,20,npc_5,TBNWNPC03
+18,20,tbnwnpc03.npc
+#meta 31,17,npc_4,TBNWGUARD01
+31,17,tbnwguard01.npc
+#meta 33,23,npc_2,TBNWNPC02
+33,23,tbnwnpc02.npc
+#meta 35,16,npc_3,WeaponShop
+35,16,grizzledforgesign.npc
+#meta 45,12,npc_1,TBNWNPC01
+45,12,tbnwnpc01.npc

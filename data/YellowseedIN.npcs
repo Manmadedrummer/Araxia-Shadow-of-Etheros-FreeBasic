@@ -1,0 +1,11 @@
+# ARAXIA NPC dialogue links for YellowseedIN.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 17,11,npc_3,YSINNPC03
+17,11,ysinnpc03.npc
+#meta 18,6,npc_4,YSINNPC04
+18,6,ysinnpc04.npc
+#meta 19,20,npc_2,YSINNPC02
+19,20,ysinnpc02.npc
+#meta 4,19,npc_1,YSINNPC01
+4,19,ysinnpc01.npc

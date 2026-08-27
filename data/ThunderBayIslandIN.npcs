@@ -1,0 +1,5 @@
+# ARAXIA NPC dialogue links for ThunderBayIslandIN.MAP
+# format: col,row,dialoguefile.npc  (1-based - matches the game's map array)
+# #meta lines are editor-only bookkeeping (id/name); the game ignores all # lines.
+#meta 6,5,npc_1,ORENTIDEWATCHER
+6,5,orentidewatcher.npc
